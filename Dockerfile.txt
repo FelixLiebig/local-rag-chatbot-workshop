@@ -1,0 +1,10 @@
+# Wir nutzen das offizielle Open WebUI Image als Basis
+FROM ghcr.io/open-webui/open-webui:main
+
+# Optional: Arbeitsverzeichnis festlegen
+WORKDIR /app
+
+# Hier könnten wir theoretisch Dateien fest in das Image kopieren
+# COPY ./mein-dokument.pdf /app/data/mein-dokument.pdf
+
+EXPOSE 8080
