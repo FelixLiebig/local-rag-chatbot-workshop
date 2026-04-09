@@ -22,22 +22,30 @@ Bevor du startest, stelle sicher, dass folgende Software installiert ist:
 
 
    
-# 🚀 Installationsanleitung: Lokaler RAG-Chatbot
+# 🤖 Lokaler RAG-Chatbot für den Mittelstand
+**Workshop-Projekt:** Mittelstand-Digital Zentrum Magdeburg
 
-Diese Anleitung führt Sie durch die Einrichtung einer vollständig lokalen KI-Umgebung. Alle Daten verbleiben auf Ihrem Rechner – ideal für sensible Unternehmensdaten wie das Leitbild des Mittelstand-Digital Zentrums.
-
----
-
-## 1. Grundinstallation der Software
-Laden Sie die folgenden Programme herunter und installieren Sie diese:
-
-1. **Docker Desktop:** [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/) (Wichtig für die Container-Umgebung).
-2. **Ollama:** [https://ollama.com/download](https://ollama.com/download) (Die Engine, die das Sprachmodell lokal ausführt).
-3. **Open WebUI:** Über dieses Repository bereitgestellt (Start via Docker).
+Dieses Projekt zeigt, wie Unternehmen eine eigene, vollständig datenschutzkonforme KI-Infrastruktur aufbauen können, um interne Dokumente (wie das Unternehmensleitbild) sicher zu analysieren.
 
 ---
 
-## 2. System starten
-Öffnen Sie Ihr Terminal/Eingabeaufforderung im Ordner dieses Projekts und führen Sie den Start-Befehl aus:
+## 💡 Das Konzept: Warum lokal und was ist RAG?
+Bevor wir zur Installation kommen, das Wichtigste für die Präsentation:
+
+1. **Datenschutz:** Im Gegensatz zu Cloud-Diensten verbleiben alle Daten auf Ihrer Hardware. Es erfolgt keine Übermittlung an externe Server.
+2. **RAG (Retrieval Augmented Generation):** Die KI wird nicht nur mit allgemeinem Wissen genutzt. Durch RAG "liest" die KI Ihre spezifischen PDFs (z. B. das Leitbild) und nutzt diese als exklusive Wissensquelle.
+3. **Open WebUI & Ollama:** Ollama ist der "Motor" (das Modell), Open WebUI ist das "Armaturenbrett" (die Benutzeroberfläche).
+
+---
+
+## 🛠️ Schritt 1: Installationsanleitung
+Bevor wir starten, müssen die folgenden Software-Komponenten installiert sein:
+
+1. **Docker Desktop:** [Hier herunterladen](https://www.docker.com/products/docker-desktop/) (Verwaltet die Container-Umgebung).
+2. **Ollama:** [Hier herunterladen](https://ollama.com/download) (Führt die KI-Modelle lokal aus).
+3. **Projekt-Dateien:** Laden Sie dieses Repository als ZIP herunter und entpacken Sie es.
+
+### System starten
+Öffnen Sie Ihr Terminal im Projektordner und starten Sie die Umgebung:
 ```bash
 docker-compose up -d
