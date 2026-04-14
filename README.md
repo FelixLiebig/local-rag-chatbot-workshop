@@ -4,7 +4,11 @@ Diese Anleitung führt Sie durch die Einrichtung einer vollständig lokalen KI-U
 
 ---
 
-⚠️ Speicherplatz-Check: Vergewissern Sie sich vor dem Start, dass **mindestens 25 GB freier Festplattenspeicher** verfügbar sind und der **Arbeitsspeicher(min 8GB RAM) relativ leer** sein sollte. Die KI-Modelle und Docker-Container benötigen diesen Platz initial für den Download.
+⚠️ System-Check vorab
+
+- Festplatte: Mindestens **25 GB** freier Speicherplatz (Zwingend erforderlich!).
+
+- Arbeitsspeicher: Mindestens **8 GB RAM** (Schließen Sie ungenutzte Programme wie Chrome-Tabs oder Teams während der Installation).
 
 
 ---
