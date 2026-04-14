@@ -18,11 +18,14 @@ Laden Sie die folgenden Programme herunter und installieren Sie diese:
 ✅ **Docker Desktop:**
 Wählen Sie eine der folgenden Umgebungen für die Container-Technik:
 
-  - Option A: OrbStack (Empfohlen für Mac) Sehr schnell, ressourcenschonend und ideal bei wenig Festplattenplatz. 👉 orbstack.dev
+  - Option A: OrbStack (Empfohlen für Mac) Sehr schnell, ressourcenschonend und ideal bei wenig Festplattenplatz. 👉 [orbstack.dev](https://orbstack.dev/download)
 
-  - Option B: Docker Desktop (Standard) 👉 docker.com
+  - Option B: Docker Desktop (Standard) 👉 [docker.com](https://www.docker.com/products/docker-desktop/)
+    
      - Konfigurations-Typ: Wählen Sie "Use advanced settings", "requires passwort" und "alle Haken setzen"
+       
       -> WICHTIG nach der Installation: Gehen Sie in die Settings -> Resources und stellen Sie folgende Werte ein:
+    
          CPU: 2 | Memory: 6 GB | Swap: 1 GB | Disk usage: 24 GB
 
 
