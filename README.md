@@ -17,7 +17,8 @@ Laden Sie die folgenden Programme herunter und installieren Sie diese:
 Öffnen Sie Ihr Terminal/Eingabeaufforderung im Ordner dieses Projekts und führen Sie den Start-Befehl aus:
 ```bash
 docker-compose up -d
+```
 
 ---
 
-## 3. Ver
+## 3. Verbindung prüfen
