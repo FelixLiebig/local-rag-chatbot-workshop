@@ -22,27 +22,23 @@ Vorraussetzung:
 
 Installiere Docker Desktop und stelle sicher, dass es läuft (Wal-Symbol in der Menüleiste).
 
-Schritt 1: Projekt herunterladen
+**Schritt 1:** Projekt herunterladen
+  - Lade dieses Repository als ZIP herunter und entpacke es oder nutze git clone.
 
-Lade dieses Repository als ZIP herunter und entpacke es oder nutze git clone.
+**Schritt 2:** Im Terminal zum Ordner navigieren
+  - Öffne das Terminal.
+  - Tippe cd  (mit Leerzeichen danach).
+  - Ziehe den entpackten Projektordner per Drag-and-Drop in das Terminalfenster und drücke Enter.
 
-Schritt 2: Im Terminal zum Ordner navigieren
+**Wichtig:** Du musst dich im selben Ordner befinden, in dem auch die Datei **docker-compose.yml** liegt!
 
-Öffne das Terminal.
+**Schritt 3:** Installation starten
+  - Führe diesen Befehl aus:
 
-Tippe cd  (mit Leerzeichen danach).
-
-Ziehe den entpackten Projektordner per Drag-and-Drop in das Terminalfenster und drücke Enter.
-
-Wichtig: Du musst dich im selben Ordner befinden, in dem auch die Datei docker-compose.yml liegt!
-
-Schritt 3: Installation starten
-
-Führe diesen Befehl aus:
-
-Bash
+```Bash
 docker-compose up -d
-Hinweis: Falls Fehlermeldungen zur Formatierung kommen, stelle sicher, dass die Datei als "Reiner Text" gespeichert wurde.
+```
+-> Hinweis: Falls Fehlermeldungen zur Formatierung kommen, stelle sicher, dass die Datei als "Reiner Text"(.yml) gespeichert wurde.
 
 ---
 
