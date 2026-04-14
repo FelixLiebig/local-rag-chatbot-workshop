@@ -15,11 +15,16 @@ Diese Anleitung führt Sie durch die Einrichtung einer vollständig lokalen KI-U
 ## 1. Grundinstallation der Software
 Laden Sie die folgenden Programme herunter und installieren Sie diese:
 
-✅ **Docker Desktop:** [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/) (Wichtig für die Container-Umgebung).
-**WICHTIG beim Öffnen**
-  - Konfigurations-Typ: Wählen Sie "Use advanced settings", "requires passwort" und "alle Haken setzen"
-  - Einstellungen im Docker anpassen:
-      - Einstellungen -> Ressourcen -> CPU: 2 , Memory: 5 , Swap: 1 , Disk usage: 24
+✅ **Docker Desktop:**
+Wählen Sie eine der folgenden Umgebungen für die Container-Technik:
+
+  - Option A: OrbStack (Empfohlen für Mac) Sehr schnell, ressourcenschonend und ideal bei wenig Festplattenplatz. 👉 orbstack.dev
+
+  - Option B: Docker Desktop (Standard) 👉 docker.com
+     - Konfigurations-Typ: Wählen Sie "Use advanced settings", "requires passwort" und "alle Haken setzen"
+      -> WICHTIG nach der Installation: Gehen Sie in die Settings -> Resources und stellen Sie folgende Werte ein:
+         CPU: 2 | Memory: 6 GB | Swap: 1 GB | Disk usage: 24 GB
+
 
 ✅ **Ollama:** [https://ollama.com/download](https://ollama.com/download) (Die Engine, die das Sprachmodell lokal ausführt).
 
