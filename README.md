@@ -25,8 +25,10 @@ Wählen Sie eine der folgenden Umgebungen für die Container-Technik:
      - Beim ÖFFNEN: Wählen Sie "Use advanced settings", "requires passwort" und "alle Haken setzen"
        
      - nach der Installation: Gehen Sie in die Settings -> Resources und stellen Sie folgende Werte ein:
-    
+       
+    ```
          CPU: 2 | Memory: 5 GB | Swap: 1 GB | Disk usage: 24 GB
+       ```
 
 
 ✅ **Ollama:** [https://ollama.com/download](https://ollama.com/download) (Die Engine, die das Sprachmodell lokal ausführt).
