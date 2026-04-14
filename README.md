@@ -27,7 +27,7 @@ Wählen Sie eine der folgenden Umgebungen für die Container-Technik:
      - nach der Installation: Gehen Sie in die Settings -> Resources und stellen Sie folgende Werte ein:
        
     ```
-         CPU: 2 | Memory: 5 GB | Swap: 1 GB | Disk usage: 24 GB
+         CPU: 2 | Memory: 6 GB | Swap: 1 GB | Disk usage: 24 GB
        ```
 
 
@@ -88,7 +88,7 @@ docker-compose up -d
 
 ## 4. Blechtech Modell und Wissen importieren
 
-**1️⃣** Klicke auf "Arbeitsbereich -> Modelle -> Importieren" und wähle die Jason-Datei aus Git-Ordner
+**1️⃣** Klicke auf "Arbeitsbereich -> Modelle -> Importieren" und wähle die JSON-Datei aus Git-Ordner
 
 **2️⃣** Geh zu Wissen und erstelle ein neuen Wissensspeicher, mit der PDF aus dem Git-Ordner
 
