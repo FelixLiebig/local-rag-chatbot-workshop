@@ -15,7 +15,7 @@ Laden Sie die folgenden Programme herunter und installieren Sie diese:
 
 ✅ **Ollama:** [https://ollama.com/download](https://ollama.com/download) (Die Engine, die das Sprachmodell lokal ausführt).
 
-✅ **Git-Repository.zip:** Repository als ZIP-Datei herunterladen und enbtpacken!
+✅ **Git-Repository.zip:** Repository als ZIP-Datei herunterladen und entpacken!
 
 
 ---
