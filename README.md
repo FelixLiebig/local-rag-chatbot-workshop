@@ -67,8 +67,7 @@ docker-compose up -d
 
 
 **Schritt 4️⃣:** OpenWebUI öffnen
-  - Über Docker öffnen
-  - Oder im Browser: http://localhost:3000
+  - Über Docker öffnen **oder** im Browser: http://localhost:3000
 
 ---
 
