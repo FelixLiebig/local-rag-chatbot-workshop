@@ -47,4 +47,17 @@ docker-compose up -d
 
 ---
 
-## 3. Verbindung prüfen
+## 3. Modell herunterladen
+
+
+1. Klicke in Open WebUI (Browser) unten links auf deinen Namen/User-Icon.
+
+2. Geh auf Admin-Bereich -> Einstellungen -> Modelle -> Verwalten
+
+3. In dem Feld "Ein Modell von Ollama laden" gibst du ein: llama3
+
+Klicke auf das Download-Symbol (die Wolke).
+
+Warte, bis der Balken durchgelaufen ist.
+
+Jetzt erst erscheint oben im Chat das Dropdown-Menü zur Auswahl.
