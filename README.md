@@ -12,7 +12,9 @@ Diese Anleitung führt Sie durch die Einrichtung einer vollständig lokalen KI-U
 Laden Sie die folgenden Programme herunter und installieren Sie diese:
 
 ✅ **Docker Desktop:** [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/) (Wichtig für die Container-Umgebung).
+
 ✅ **Ollama:** [https://ollama.com/download](https://ollama.com/download) (Die Engine, die das Sprachmodell lokal ausführt).
+
 ✅ **Git-Repository.zip:** Repository als ZIP-Datei herunterladen und enbtpacken!
 
 
