@@ -74,10 +74,10 @@ docker-compose up -d
 
 ## 4. Blechtech Modell und Wissen importieren
 
-**1️⃣** Klicke in Open WebUI (Browser) unten links auf deinen Namen/User-Icon.
+**1️⃣** Klicke auf "Arbeitsbereich -> Modelle -> Importieren" und wähle die Jason-Datei aus Git-Ordner
 
-**2️⃣** Geh auf Admin-Bereich -> Einstellungen -> Modelle -> Verwalten
+**2️⃣** Geh zu Wissen und erstelle ein neuen Wissensspeicher, mit der PDF aus dem Git-Ordner
 
-**3️⃣** In dem Feld "Ein Modell von Ollama laden" gibst du ein: llama3
+**3️⃣** Geh zu den 3 Punkten bei Modell "Blechtech" und füge das Sprachmodell, sowie WIssen hinzu
 
-**4️⃣** Klicke auf das Download-Symbol (die Wolke).
+**4️⃣** FERTIG! -> Du kannst jetzt einen neuen Chat beginnen (musst aber oben links Blechtech auswählen)
