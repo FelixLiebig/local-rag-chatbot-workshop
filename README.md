@@ -4,7 +4,7 @@ Diese Anleitung führt Sie durch die Einrichtung einer vollständig lokalen KI-U
 
 ---
 
-⚠️ Speicherplatz-Check: Vergewissern Sie sich vor dem Start, dass **mindestens 20 GB freier Festplattenspeicher** verfügbar sind und der **Arbeitsspeicher(min 8GB RAM) relativ leer** sein sollte. Die KI-Modelle und Docker-Container benötigen diesen Platz initial für den Download.
+⚠️ Speicherplatz-Check: Vergewissern Sie sich vor dem Start, dass **mindestens 25 GB freier Festplattenspeicher** verfügbar sind und der **Arbeitsspeicher(min 8GB RAM) relativ leer** sein sollte. Die KI-Modelle und Docker-Container benötigen diesen Platz initial für den Download.
 
 
 ---
@@ -15,7 +15,7 @@ Laden Sie die folgenden Programme herunter und installieren Sie diese:
 **WICHTIG beim Öffnen**
   - Konfigurations-Typ: Wählen Sie "Use advanced settings", "requires passwort" und "alle Haken setzen"
   - Einstellungen im Docker anpassen:
-      - Einstellungen -> Ressourcen -> CPU: 2 , Memory: 3 , Swap: 1 , Disk usage: 32
+      - Einstellungen -> Ressourcen -> CPU: 2 , Memory: 5 , Swap: 1 , Disk usage: 24
 
 ✅ **Ollama:** [https://ollama.com/download](https://ollama.com/download) (Die Engine, die das Sprachmodell lokal ausführt).
 
