@@ -76,7 +76,7 @@ docker-compose up -d
 
 **2️⃣** Geh auf Admin-Bereich -> Einstellungen -> Modelle -> Verwalten
 
-**3️⃣** In dem Feld "Ein Modell von Ollama laden" gibst du ein: llama3
+**3️⃣** In dem Feld "Ein Modell von Ollama laden" gibst du ein: llama3 (gemma2 alternativ bei geringer CPU Leistung)
 
 **4️⃣** Klicke auf das Download-Symbol (die Wolke).
 
