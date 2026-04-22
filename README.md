@@ -63,7 +63,6 @@ Installiere Docker Desktop und stelle sicher, dass es läuft (Wal-Symbol in der 
 ```Bash
 docker-compose up -d
 ```
--> Hinweis: Falls Fehlermeldungen zur Formatierung kommen, stelle sicher, dass die Datei als "Reiner Text"(.yml) gespeichert wurde.
 
 
 **Schritt 4️⃣:** OpenWebUI öffnen
