@@ -84,7 +84,7 @@ docker-compose up -d
 
 ---
 
-## 4. Blechtech Modell und Wissen importieren
+## 4. Blechtech-Konfiguration und Wissen importieren
 
 **1️⃣** Klicke auf "Arbeitsbereich -> Modelle -> Importieren" und wähle die JSON-Datei aus Git-Ordner
 
