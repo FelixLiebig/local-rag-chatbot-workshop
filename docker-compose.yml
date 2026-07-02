@@ -1,10 +1,3 @@
-services:
-  ollama:
-    image: ollama/ollama:latest
-    container_name: ollama
-    volumes:
-      - ./ollama_storage:/root/.ollama
-    restart: always
 
   open-webui:
     image: ghcr.io/open-webui/open-webui:main
@@ -12,9 +5,7 @@ services:
     ports:
       - "3000:8080"
     environment:
-      - OLLAMA_BASE_URL=http://ollama:11434
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
     volumes:
       - ./open-webui_storage:/app/data
-    depends_on:
-      - ollama
     restart: always
