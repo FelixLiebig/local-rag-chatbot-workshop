@@ -82,7 +82,11 @@ orbstack-compose up -d
 
 **2️⃣** Geh auf Admin-Bereich -> Einstellungen -> Modelle -> Verwalten
 
-**3️⃣** Feld "Ein Modell von Ollama laden" ein geeignetes Modell laden! (gemma2 : 2b, llama3, mistral7b) - abhängig von CPU Leistung
+**3️⃣** Feld "Ein Modell von Ollama laden":
+- ein geeignetes Sprach-Modell laden! (gemma2 : 2b, llama3, mistral7b) - abhängig von CPU Leistung
+- ein geeignetes Embedding-Modell laden! (all-minilm-l6-v2, nomic-embed-text, bge-large-en-v1.5) - abhängig von CPU Leistung
+
+**WICHTIG:** Du benötigst zwingend ein Sprach-Modell UND ein Embedding-Modell!
 
 **4️⃣** Klicke auf das Download-Symbol (die Wolke).
 
