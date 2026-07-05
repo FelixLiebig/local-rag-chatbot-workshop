@@ -60,8 +60,14 @@ Installiere Docker Desktop und stelle sicher, dass es läuft (Wal-Symbol in der 
 **Schritt 3️⃣:** Installation starten
   - Führe diesen Befehl aus:
 
+**Wenn du DOCKER verwendest:**
 ```Bash
 docker-compose up -d
+```
+
+**Wenn du OrbStack verwendest:**
+```Bash
+orbstack-compose up -d
 ```
 
 
