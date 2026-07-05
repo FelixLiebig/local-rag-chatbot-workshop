@@ -5,9 +5,9 @@ services:
     ports:
       - "127.0.0.1:3000:8080"
     environment:
-      - OLLAMA_BASE_URL=http://host.orb.internal:11434
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
       - RAG_EMBEDDING_ENGINE=ollama
-      - RAG_OLLAMA_BASE_URL=http://host.orb.internal:11434
+      - RAG_OLLAMA_BASE_URL=http://host.docker.internal:11434
     volumes:
       - ./open-webui_storage:/app/data
     restart: always
