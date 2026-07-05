@@ -27,7 +27,7 @@ Wählen Sie eine der folgenden Umgebungen für die Container-Technik:
      - nach der Installation: Gehen Sie in die Settings -> Resources und stellen Sie folgende Werte ein:
        
     ```
-         CPU: 2 | Memory: 6 GB | Swap: 1 GB | Disk usage: 24 GB
+         CPU: 2 | Memory: 2-6 GB | Swap: 1 GB | Disk usage: 24 GB
        ```
 
 
