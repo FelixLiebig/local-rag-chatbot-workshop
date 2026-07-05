@@ -76,7 +76,8 @@ orbstack-compose up -d
 
 ---
 
-## 3. Modell herunterladen
+## 3. Modelle
+herunterladen
 
 **1️⃣** Klicke in Open WebUI (Browser) unten links auf deinen Namen/User-Icon.
 
