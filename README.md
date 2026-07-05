@@ -92,6 +92,12 @@ orbstack-compose up -d
 
 -> Jetzt erst erscheint oben im Chat das Dropdown-Menü zur Auswahl.
 
+
+**5️⃣** Embedding-Modell hinzufügen
+- Wechsel in der Menü-Bar von "Modelle" zu "Dokumente" -
+- Füge unter "Embedding-Modell" den Namen deines Modells hinzu
+- Stelle Chunk-Größen und Überlappung nach deinen Bedürfnissen ein
+
 ---
 
 ## 4. Blechtech-Konfiguration und Wissen importieren
