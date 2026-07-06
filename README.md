@@ -72,7 +72,7 @@ orbstack-compose up -d
 
 
 **Schritt 4️⃣:** OpenWebUI öffnen
-  - Über Docker öffnen **oder** im Browser: http://localhost:3000
+  - 30sek warten und dann über Docker/Orbstack öffnen **oder** im Browser: http://localhost:3000
 
 ---
 
