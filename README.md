@@ -1,6 +1,6 @@
 # 🚀 Installationsanleitung: Lokaler RAG-Chatbot
 
-Diese Anleitung führt Sie durch die Einrichtung einer vollständig lokalen KI-Umgebung. Alle Daten verbleiben auf Ihrem Rechner – ideal für sensible Unternehmensdaten wie das Leitbild des Mittelstand-Digital Zentrums.
+Diese Anleitung führt Sie durch die Einrichtung einer vollständig lokalen KI-Umgebung. Alle Daten verbleiben auf Ihrem Rechner.
 
 ---
 
